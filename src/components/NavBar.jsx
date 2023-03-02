@@ -5,14 +5,14 @@ export const NavBar = () =>{
 <div className="container">
     <nav className="nav">
         <div className="nav_brand">
-            <a className="nav_link" href="a">MiMarca</a>
+            <a className="nav_link" href="a">Mi Marca</a>
         </div>
         <ul className="nav_list">
             <li>
-                <a className="nav_link" href="#">Categoria 1</a>
+                <a className="nav_link" href="#">Categoria uno</a>
             </li>
             <li>
-                <a className="nav_link" href="#">Categoria 2</a>
+                <a className="nav_link" href="#">Categoria dos</a>
             </li>
             <li>
                 <a className="nav_link" href="#">Carrito</a>
